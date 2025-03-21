@@ -1,8 +1,8 @@
 
 
-### Olá! Eu sou Eduardo Abreu 🖐️
+### Hello! I'm Eduardo Abreu 🖐️
 
-### Ferramentas de trabalho (Em constante aprendizado)
+### Work tools (Continuously learning)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -38,5 +38,3 @@
 
 
 </div>
-
-##### Amante da programação, atualmente trabalho como Suporte Técnico de TI na área de integração de sistemas laboratoriais
